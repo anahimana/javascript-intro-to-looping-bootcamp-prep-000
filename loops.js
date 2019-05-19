@@ -32,12 +32,12 @@ function incrementVariable() {
 }
 
 function doWhileLoop(num) {
-  var counter = 1;
+  // var counter = 1;
   do {
-    console.log(counter);
+    // console.log(counter);
     console.log("I run once regardless.");
     // console.log(`I run once regardless. ${i}`);
-    counter += 1;
+    // counter += 1;
   } while (incrementVariable() <= num);
 }
 
