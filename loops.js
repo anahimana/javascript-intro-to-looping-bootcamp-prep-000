@@ -37,7 +37,7 @@ function doWhileLoop(num) {
     console.log("I run once regardless.");
     // console.log(`I run once regardless. ${i}`);
     console.log(counter);
-    // counter += 1;
+    counter += 1;
   } while (incrementVariable() <= num);
 }
 
