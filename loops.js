@@ -31,7 +31,7 @@ function incrementVariable() {
   return i;
 }
 
-function doWhileLoop(number) {
+function doWhileLoop() {
   do {
     console.log("doo-bee-doo-bee-doo");
   } while (incrementVariable() < 5);
