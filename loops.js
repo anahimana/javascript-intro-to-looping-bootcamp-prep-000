@@ -32,7 +32,7 @@ function incrementVariable() {
 }
 
 function doWhileLoop(num) {
-  // var counter = 1;
+  // var counter = 0;
   do {
     console.log("I run once regardless.");
     // console.log(`I run once regardless. ${i}`);
