@@ -28,7 +28,7 @@ var i = 0;
  
 function incrementVariable() {
   i = i + 1;
-  console.log(i)
+  console.log(i);
   return i;
 }
 
