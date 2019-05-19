@@ -37,6 +37,6 @@ function doWhileLoop() {
   } while (incrementVariable() < 5);
 }
 
-doWhileLoop()
+doWhileLoop();
 
 
